@@ -59,6 +59,7 @@ body{
 
 .fifth-text{ 
     font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
     margin: 4px;
     padding: 0px 0px 10px 0px;
     background: linear-gradient(90deg, #00ffff,#ff00c3);
