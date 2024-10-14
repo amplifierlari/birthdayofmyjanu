@@ -1,0 +1,68 @@
+@import url('https:fonts.googleapis.cpm/css2?family=Poppins:wght@700&display=swap')
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;         
+    font-family: 'Poppons', sans-serif;     
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #252839;
+}
+.first-text{ 
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 4px;
+    padding: 10px 0px 20px 0px;
+    background: linear-gradient(90deg, #00ffff,#ff00c3);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.second-text{ 
+    
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 4px;
+    padding: 0px 0px 10px 0px;
+    background: linear-gradient(90deg, #00ffff,#ff00c3);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.third-text{ 
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 4px;
+    padding: 0px 0px 10px 0px;
+    background: linear-gradient(90deg, #00ffff,#ff00c3);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.fourth-text{ 
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 4px;
+    padding: 0px 0px 10px 0px;
+    background: linear-gradient(90deg, #00ffff,#ff00c3);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.fifth-text{ 
+    font-size: larger;
+    margin: 4px;
+    padding: 0px 0px 10px 0px;
+    background: linear-gradient(90deg, #00ffff,#ff00c3);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
